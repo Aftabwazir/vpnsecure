@@ -1,0 +1,58 @@
+{
+  "VpnController": {
+    "VpnUserName": "aftabwazirzalmi",
+    "VpnPassword": "Bannu@@1",
+    "VpnList": [
+      {
+        "vpnName": "UAE",
+        "vpnIso": "ae",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "USA 1",
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client-tcp.ovpn",
+      "vpnNoAuth": true
+      },
+      {
+        "vpnName": "USA 2",
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn",
+        "vpnUser": "aftabwazirzalmi",
+       "vpnNoAuth": true
+      },
+     
+      {
+        "vpnName": "UK",
+        "vpnIso": "gb",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ukvpn.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "France",
+        "vpnIso": "fr",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Canada",
+        "vpnIso": "ca",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Germany",
+        "vpnIso": "de",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Russia",
+        "vpnIso": "ru",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/russiaudp.ovpn",
+        "vpnNoAuth": true
+      }
+    ]
+  }
+}
