@@ -12,7 +12,7 @@
       {
         "vpnName": "USA 1",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client-tcp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn",
       "vpnNoAuth": true
       },
       {
