@@ -12,13 +12,13 @@
       {
         "vpnName": "Netherlands",
         "vpnIso": "nl",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/NL.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/111-nl.ovpn",
         "vpnNoAuth": true
       },
       {
         "vpnName": "Turkey",
         "vpnIso": "tr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/TR.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/112-tr.ovpn",
         "vpnNoAuth": true
       },
       {
@@ -61,7 +61,7 @@
       {
         "vpnName": "France",
         "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/FR.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/116-fr.ovpn",
         "vpnNoAuth": true
       },
       {
