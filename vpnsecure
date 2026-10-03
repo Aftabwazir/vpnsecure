@@ -1,7 +1,7 @@
 {
   "VpnController": {
-    "VpnUserName": "aftabwazirzalmi",
-    "VpnPassword": "Bannu@@1",
+    "VpnUserName": "pvpn",
+    "VpnPassword": "KholifaNetwork",
     "VpnList": [
       {
         "vpnName": "UAE",
@@ -44,7 +44,7 @@
       {
         "vpnName": "Germany",
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/devpn/refs/heads/main/de-10.ovpn",
         "vpnNoAuth": true
       },
       {
