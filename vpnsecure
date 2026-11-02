@@ -84,12 +84,6 @@
         "vpnNoAuth": true
       },
       {
-        "vpnName": "Canada",
-        "vpnIso": "ca",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
         "vpnName": "Germany",
         "vpnIso": "de",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/devpn/refs/heads/main/de-10.ovpn",
